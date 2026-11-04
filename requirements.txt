@@ -1,0 +1,12 @@
+--only-binary=:all:
+streamlit==1.66.1
+uv==0.12.18
+numpy==1.26.4; python_version == "3.12"
+pandas==2.2.2; python_version == "3.12"
+scipy==1.13.1; python_version == "3.12"
+scikit-learn==1.5.1; python_version == "3.12"
+joblib==1.4.2; python_version == "3.12"
+xgboost-cpu==3.0.1; python_version == "3.12"
+lightgbm==4.6.0; python_version == "3.12"
+catboost==1.2.8; python_version == "3.12"
+scikit-optimize==0.10.2; python_version == "3.12"
